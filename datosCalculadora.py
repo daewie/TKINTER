@@ -16,7 +16,7 @@ def handleFactorial():
 
 window=Tk()
 window.title("Calculadora")
-window.config(background="yellow")
+window.config(background="black")
 
 texto=Entry(window,font=("arial 20"))
 texto.grid(row=0,column=0,columnspan=4,padx=10,pady=10)
